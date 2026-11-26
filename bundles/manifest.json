@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "platform": "win32-x64",
+  "bootstrap": {
+    "node.exe": "995a3fb3cefad590cd3f4b321532a4b9582fb9c6575320ed2e3e894caac3e362",
+    "7za.exe": "dd3757f31c97e33776f2590317d4fb12f2da075db3dbb1e3f94d0f2a01d84ffa"
+  },
+  "components": {
+    "bettergi": {
+      "version": "0.67.0",
+      "archive": "BetterGI_v0.67.0.7z",
+      "bytes": 488224816,
+      "sha256": "7bbe9f9a108b46cb9ae2e9164d3fbbfe7f8655a9ab9c377a203064a45a822079",
+      "required": [
+        "BetterGI/BetterGI.exe",
+        "BetterGI/Assets/Model/LICENSE"
+      ],
+      "parts": [
+        {
+          "file": "bettergi-0.67.0/part-001.bin",
+          "bytes": 33554432,
+          "sha256": "bc90552f5e0c0149e6a8adaa200117c0d1f610476a077db412c6217c690208aa"
+        },
+        {
+          "file": "bettergi-0.67.0/part-002.bin",
+          "bytes": 33554432,
+          "sha256": "f2fe07ae04e1e4451781ad2904b0faab64acdd16ff79b917d88422a91e9a2b16"
+        },
+        {
+          "file": "bettergi-0.67.0/part-003.bin",
+          "bytes": 33554432,
+          "sha256": "fb46b55e543349ffa0c4b8b11e0cb194f00e7a1bab97d4937d2ae2e8db895a73"
+        },
+        {
+          "file": "bettergi-0.67.0/part-004.bin",
+          "bytes": 33554432,
+          "sha256": "2ef2aaa3836bbe73d5f04f4d0cf1bb1cdacc8bf56eeb5597953f89cbeece9988"
+        },
+        {
+          "file": "bettergi-0.67.0/part-005.bin",
+          "bytes": 33554432,
+          "sha256": "2757f3ae0e03eb15b03b420e031b3bcf145b50d5e507aae006bac300676f3770"
+        },
+        {
+          "file": "bettergi-0.67.0/part-006.bin",
+          "bytes": 33554432,
+          "sha256": "e3e035f389734c905a6fcb847508d77f42bd2ebc02cb636ffa0cc52dfb770d8c"
+        },
+        {
+          "file": "bettergi-0.67.0/part-007.bin",
+          "bytes": 33554432,
+          "sha256": "825e88f36cd35b9ee2daa57476269e35df9ee89c2ad9fb72779baa80c63be68b"
+        },
+        {
+          "file": "bettergi-0.67.0/part-008.bin",
+          "bytes": 33554432,
+          "sha256": "6a29af0bc8a2ad097f954feacbc4aaf027f3127f52a8cd82ac4e522556acf4a6"
+        },
+        {
+          "file": "bettergi-0.67.0/part-009.bin",
+          "bytes": 33554432,
+          "sha256": "1b888350a6ee79f7df0810b1ea0317bd1b65943507fb449ec478116c809d541e"
+        },
+        {
+          "file": "bettergi-0.67.0/part-010.bin",
+          "bytes": 33554432,
+          "sha256": "83f45cae860b8d8146a14ae04e44e0d785d4d3c6dd6d7c958a8e912cf33dafcf"
+        },
+        {
+          "file": "bettergi-0.67.0/part-011.bin",
+          "bytes": 33554432,
+          "sha256": "7550bdf2bf5e51de1ef0ce51e83d6b38df999f34c2b35b311fb4e760c1eea897"
+        },
+        {
+          "file": "bettergi-0.67.0/part-012.bin",
+          "bytes": 33554432,
+          "sha256": "2dc24827199c4623e174746da9a3dceb89e4fb05df6fadafe72a413a7c628bed"
+        },
+        {
+          "file": "bettergi-0.67.0/part-013.bin",
+          "bytes": 33554432,
+          "sha256": "791be76aee79f587a73cc825f0a116a732eaf75ba9bc97f3c232bbb8457d9cf6"
+        },
+        {
+          "file": "bettergi-0.67.0/part-014.bin",
+          "bytes": 33554432,
+          "sha256": "207e28da08069dfc8029bc8cf6ec29b33d7388199e12f3e6b162859734ed6b91"
+        },
+        {
+          "file": "bettergi-0.67.0/part-015.bin",
+          "bytes": 18462768,
+          "sha256": "d77b5d91e8710ddd2937fcba8cc2a9beebc3c68f99284c51e23820ce85275dcb"
+        }
+      ]
+    },
+    "python": {
+      "version": "3.13.17",
+      "archive": "python-3.13.17-genshin.zip",
+      "bytes": 72572493,
+      "sha256": "ca697bd0330cdc86a105f657ac7f1add1d9424b671348a770c336c514f2445f1",
+      "required": [
+        "python.exe",
+        "python313._pth",
+        "Lib/site-packages/cv2/__init__.py"
+      ],
+      "parts": [
+        {
+          "file": "python-3.13.17/part-001.bin",
+          "bytes": 33554432,
+          "sha256": "a9b280fccac5710ae69e13beb571a24816dabb32c2419035825028f6fb425f38"
+        },
+        {
+          "file": "python-3.13.17/part-002.bin",
+          "bytes": 33554432,
+          "sha256": "9e6479d3ad62ca6a4014ab212feddb29b6edeadb4e1286abc7907e85939eee4b"
+        },
+        {
+          "file": "python-3.13.17/part-003.bin",
+          "bytes": 5463629,
+          "sha256": "318c788428e8f37d6fdb32046ca679d8e0e9f58cdd295eba2e9f2cf75b9d061b"
+        }
+      ]
+    },
+    "powershell": {
+      "version": "7.6.9",
+      "archive": "PowerShell-7.6.9-win-x64.zip",
+      "bytes": 109620855,
+      "sha256": "ce7484804c0f0ad4dda10c958e71acdaf7eebfb22505c1b480f89e0e9f1da94d",
+      "required": [
+        "pwsh.exe",
+        "UIAutomationClient.dll",
+        "ThirdPartyNotices.txt"
+      ],
+      "parts": [
+        {
+          "file": "powershell-7.6.9/part-001.bin",
+          "bytes": 33554432,
+          "sha256": "913538f494e841bb148cb72c809f47e3005d7b5ec90bdf1f2cdb10496e022f1a"
+        },
+        {
+          "file": "powershell-7.6.9/part-002.bin",
+          "bytes": 33554432,
+          "sha256": "0c3d81d529bb47a97310e9cb18dd544f8b31ce67b9f16363dfdef52a5526f865"
+        },
+        {
+          "file": "powershell-7.6.9/part-003.bin",
+          "bytes": 33554432,
+          "sha256": "e45ad21b09d12979f35962ef2726fe8078d9eb6651931644ab7aa4eba38dfc2d"
+        },
+        {
+          "file": "powershell-7.6.9/part-004.bin",
+          "bytes": 8957559,
+          "sha256": "2692f43e3ced59e789037643679c25b3d2f506d951dcefe3bb39e12feafbab5f"
+        }
+      ]
+    }
+  }
+}

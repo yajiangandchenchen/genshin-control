@@ -1,0 +1,14 @@
+{
+  "manifest_version": 1,
+  "name": "Genshin Control 原神场景控制",
+  "version": "1.2.0",
+  "bgi_version": "0.67.0",
+  "description": "通过 BetterGI 的公开脚本宿主执行本地桥接提交的场景任务。",
+  "authors": [],
+  "main": "main.js",
+  "saved_files": [
+    "request.json",
+    "result.json",
+    "telemetry.json"
+  ]
+}

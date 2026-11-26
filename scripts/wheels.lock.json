@@ -1,0 +1,44 @@
+[
+  {
+    "name": "comtypes",
+    "version": "1.5.0",
+    "filename": "comtypes-1.5.0-py3-none-any.whl",
+    "sha256": "c648ed3b243b1eb3b7cb893a873d1b35104ca1c8922061f4b1efafeb255bacb5",
+    "url": "https://files.pythonhosted.org/packages/89/dc/818b43a6766800973e1611aeaff55e20cb38e36f3c499db1795838675f44/comtypes-1.5.0-py3-none-any.whl"
+  },
+  {
+    "name": "dxcam",
+    "version": "0.3.0",
+    "filename": "dxcam-0.3.0-cp313-cp313-win_amd64.whl",
+    "sha256": "d3de4d64e6d85a4c3c5b869dd35eba82d4784e5b6c4b1703e0cb09da14be9575",
+    "url": "https://files.pythonhosted.org/packages/32/a0/f4c321b068cc1eb20aa56cd531c5cb449370d77b115075d9828853da8a05/dxcam-0.3.0-cp313-cp313-win_amd64.whl"
+  },
+  {
+    "name": "mss",
+    "version": "10.2.0",
+    "filename": "mss-10.2.0-py3-none-any.whl",
+    "sha256": "e79f428899280e7e64e38365b5bfed683851ebea807eeaeadaf06eb8e0d67197",
+    "url": "https://files.pythonhosted.org/packages/f2/c3/313e14f245c79b4c05bd0f3a84a4813aa26fa10f8993aebd91d04c5fad3f/mss-10.2.0-py3-none-any.whl"
+  },
+  {
+    "name": "numpy",
+    "version": "2.5.5",
+    "filename": "numpy-2.5.5-cp313-cp313-win_amd64.whl",
+    "sha256": "e0608d1585557b68dcb6a70a41654f7536567960afad79d91752d2863b242b68",
+    "url": "https://files.pythonhosted.org/packages/45/74/bb9161943fb65caf24e4bb04c788f5c7815e6cb78ac595e7f46781033c82/numpy-2.5.5-cp313-cp313-win_amd64.whl"
+  },
+  {
+    "name": "opencv-python-headless",
+    "version": "5.1.0.95",
+    "filename": "opencv_python_headless-5.1.0.95-cp37-abi3-win_amd64.whl",
+    "sha256": "2fd11ce2e88feb28869ad5762a31546ce0062e7c55c130c425ccd3918a19e4fa",
+    "url": "https://files.pythonhosted.org/packages/26/d1/a52c8d8e1cecf86725930170dfba1c7c1f59674ac8f131e96583aa41433d/opencv_python_headless-5.1.0.95-cp37-abi3-win_amd64.whl"
+  },
+  {
+    "name": "PyDirectInput",
+    "version": "1.0.4",
+    "filename": "PyDirectInput-1.0.4-py3-none-any.whl",
+    "sha256": "238bbe97f505f9c8728a47ea6a787750dbe834ec1fb42b98b3d703d827eda83e",
+    "url": "https://files.pythonhosted.org/packages/c9/8e/f909defe798270afc2241d3a8986d51459e70c37f02d2ba549627b781b2c/PyDirectInput-1.0.4-py3-none-any.whl"
+  }
+]

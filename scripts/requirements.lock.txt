@@ -1,0 +1,6 @@
+comtypes==1.5.0
+dxcam==0.3.0
+mss==10.2.0
+numpy==2.5.5
+opencv-python-headless==5.1.0.95
+PyDirectInput==1.0.4
